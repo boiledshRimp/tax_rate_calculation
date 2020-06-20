@@ -4,7 +4,7 @@
 
 # DEMO
 
-coming soon
+[![Image from Gyazo](https://i.gyazo.com/15e242ccb54cf7f9acd2ec804668e0a3.gif)](https://gyazo.com/15e242ccb54cf7f9acd2ec804668e0a3)
 
 # Features
 
