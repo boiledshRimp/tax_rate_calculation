@@ -13,7 +13,7 @@ coming soon
 # Requirement
 
 推奨はGoogle Chromeですが、現行のverのどのブラウザでも動作します。
-(Javascriptのes6非対応の古いバージョンのブラウザの場合は保証できかねます)
+(JavascriptのES6、HTML5、CSS3非対応の古いバージョンのブラウザの場合は保証できかねます)
 
 # Usage
 
